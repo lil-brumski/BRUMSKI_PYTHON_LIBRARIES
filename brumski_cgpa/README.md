@@ -1,6 +1,7 @@
 # A CGPA calculator python library created in C++.
 
 1. a. This library is a python-only library that was made using C++ and a C++/Python interoperability library named "pybind11". 
+
    b. To use this library, simply download it to your project directory and type *import brumski_cgpa* in your python file.
 
 2. Functions in this library include: 
