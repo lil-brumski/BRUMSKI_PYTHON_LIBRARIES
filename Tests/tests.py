@@ -3,7 +3,7 @@ import grade_calculator as gc
 
 #For grade_point module.
 result = gp.func("A", 4)
-print(f"GP: {result}")
+print(f"Grade point: {result}")
 
 #For grade_calculator
 while True:
