@@ -8,7 +8,7 @@ _Functions in this library:_
 
 3. If library is imported like this:
 
- **import grade_point**
+   **import grade_point**
 
-You must add _grade_point_ then a period '.' before writing and using any of the functions. 
+   You must add _grade_point_ then a period '.' before writing and using any of the functions. 
 
